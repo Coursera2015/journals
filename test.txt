@@ -1,5 +1,5 @@
 Source_Title	Publishers_Name	Publishers_Country	SJR_2013
-Revue des Etudes Juives	Peeters Press	Belgium	0.1
+Revue des Etudes Juivs	Peeters Press	Belgium	0.1
 Apparel	VNU Business Publications	Netherlands	0.1
 Revue du Marche Commun et de L'Union Europeenne	Editions Techniques et Economiques	France	0.1
 JFE Technical Report	JFE Holdings, Inc	Japan	0.1
